@@ -6,4 +6,4 @@ COPY . /app/
 
 WORKDIR /app/
 
-CMD ["python", "paribus.py"]
+CMD ["python", "main.py"]
